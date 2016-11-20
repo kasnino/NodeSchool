@@ -1,0 +1,4 @@
+var pizza = 'pizza is alright';
+     pizza = pizza.replace('alrights', 'wonderful');
+     console.log(pizza);var example = 'this example exists';
+example = example..replace('exists','');
