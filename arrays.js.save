@@ -1,0 +1,8 @@
+var pizzatoppings = 'tomato sauce, cheese ,pepperoni';
+
+console.log("[");
+
+for (var i=0; i<pizzatoppings.length; i++)
+{  
+   console.log(pizzatoppings.split(/\s*,\s*/
+console.log("]");
