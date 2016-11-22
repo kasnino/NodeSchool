@@ -1,5 +1,7 @@
- function eat(String food) {  
-   return food + ' tasted really good.';
-  
-     } 
- console.log(eat(banana));
+function eat (food)
+    {  
+       return food + ' tasted really good.';   
+} 
+ 
+console.log(eat('bananas'));
+ 
